@@ -1,9 +1,6 @@
 // FileEncryption.m
 
-#import "FileEncryption.h"
-
-
-@implementation FileEncryption
+#import <React/RCTBridgeModule.h>
 
 @interface RCT_EXTERN_MODULE(FileEncryption, NSObject)
 

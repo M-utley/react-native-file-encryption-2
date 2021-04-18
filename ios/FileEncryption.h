@@ -2,6 +2,6 @@
 
 #import <React/RCTBridgeModule.h>
 
-@interface FileEncryption : NSObject <RCTBridgeModule>
+// @interface FileEncryption : NSObject <RCTBridgeModule>
 
-@end
+// @end
